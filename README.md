@@ -12,4 +12,8 @@
 
  3. S.T.A.L.K.E.R - Menu (NutScript) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121282944
 
- ![Screenshot]()
+ ![Screenshot](https://i.imgur.com/Y0Db9ni.jpg)
+ ![Screenshot](https://i.imgur.com/X5OfNYZ.jpg)
+ ![Screenshot](https://i.imgur.com/3OU1ftd.jpg)
+ ![Screenshot](https://i.imgur.com/bATUhXi.jpg)
+
