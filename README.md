@@ -4,7 +4,7 @@
  
  Для каждого аддона присутствует подробная инструкция по изменению и настройке, а так же необходимые материалы.
  
- 1. S.T.A.L.K.E.R - Inventory (NutScript) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771
+ 1. S.T.A.L.K.E.R - Inventory (NutScript / HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771
     
     Особенности:
     * Отдельные слоты для оружия и брони.
@@ -20,6 +20,7 @@
    * Все разделы функционируют.
    * Функционирующая система репутации.
    * Написано, как называется, с нуля.
+   * Карта в реальном времени.
  
  ![Screenshot](https://i.imgur.com/Y0Db9ni.jpg)
  ![Screenshot](https://i.imgur.com/X5OfNYZ.jpg)
