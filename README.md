@@ -14,13 +14,13 @@
  
  ![Screenshot](https://i.imgur.com/cGWSlpZ.jpg)
  
- 2. S.T.A.L.K.E.R - PDA (NutScript) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121280081
+ 2. S.T.A.L.K.E.R - PDA (NutScript / HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121280081
  
    Особенности: 
    * Все разделы функционируют.
    * Функционирующая система репутации.
    * Написано, как называется, с нуля.
-   * Карта в реальном времени.
+   * Карта в реальном времени. (присутствует поддержка большинства карт. поддержку всех карт сделать невозможно)
  
  ![Screenshot](https://i.imgur.com/Y0Db9ni.jpg)
  ![Screenshot](https://i.imgur.com/X5OfNYZ.jpg)
