@@ -16,7 +16,20 @@
  
  ![Screenshot](https://i.imgur.com/cGWSlpZ.jpg)
  
- 2. S.T.A.L.K.E.R - PDA (NutScript / HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121280081
+  2. S.T.A.L.K.E.R - HUD (HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771
+    ВАЖНО: Функции, отмеченные ** доступны только совместно с S.T.A.L.K.E.R - Inventory (HELIX).
+    
+    Особенности:
+    * Активный радар
+    * Активные показатели боеприпасов
+    ** Доступ к быстрым слотам
+ 
+ ![Screenshot](https://i.imgur.com/H3Kms7E.jpg)
+ ![Screenshot](https://i.imgur.com/rWe8zPy.jpg)
+ ![Screenshot](https://i.imgur.com/eYKCKzA.jpg)
+ ![Screenshot](https://i.imgur.com/STmUAco.jpg)
+ 
+ 3. S.T.A.L.K.E.R - PDA (NutScript / HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121280081
  
    Особенности: 
    * Все разделы функционируют.
@@ -29,7 +42,7 @@
  ![Screenshot](https://i.imgur.com/3OU1ftd.jpg)
  ![Screenshot](https://i.imgur.com/bATUhXi.jpg)
 
- 3. S.T.A.L.K.E.R - Menu (NutScript) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121282944
+ 4. S.T.A.L.K.E.R - Menu (NutScript) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121282944
   
   Особенности:
   * Стилизованное меню. На данный момент без анимаций (статические картинки).
