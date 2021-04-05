@@ -6,7 +6,7 @@
  
  Код всех аддонов защищен от копирования и редактирования.
  
- 1. S.T.A.L.K.E.R - Inventory (NutScript / HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771
+ 1. S.T.A.L.K.E.R - Inventory (NutScript / HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771 
     
     Особенности:
     * Отдельные слоты для оружия и брони.
@@ -16,8 +16,10 @@
  
  ![Screenshot](https://i.imgur.com/cGWSlpZ.jpg)
  
-  2. S.T.A.L.K.E.R - HUD (HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771
-    ВАЖНО: Функции, отмеченные ** доступны только совместно с S.T.A.L.K.E.R - Inventory (HELIX).
+  2. S.T.A.L.K.E.R - HUD (HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771    
+ 
+     ВАЖНО: Функции, отмеченные ** доступны только совместно с S.T.A.L.K.E.R - Inventory (HELIX).
+    
      Особенности:
     * Отдельные слоты для оружия и брони.
     * Смена иконки в зависимости от модели игрока.
