@@ -23,7 +23,7 @@
      Особенности:
      * Активный радар
      * Активный показатель поеприпасов
-     * Быстрые слоты (только S.T.A.L.K.E.R - Inventory)
+     * Быстрые слоты (только с S.T.A.L.K.E.R - Inventory)
    
  ![Screenshot](https://i.imgur.com/H3Kms7E.jpg)
  ![Screenshot](https://i.imgur.com/rWe8zPy.jpg)
