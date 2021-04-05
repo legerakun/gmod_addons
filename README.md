@@ -18,12 +18,12 @@
  
   2. S.T.A.L.K.E.R - HUD (HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771    
  
-     ВАЖНО: Функции, отмеченные ** доступны только совместно с S.T.A.L.K.E.R - Inventory (HELIX).
+     ВАЖНО: Некоторые функции доступны только совместно с S.T.A.L.K.E.R - Inventory (HELIX)
     
      Особенности:
      * Активный радар
      * Активный показатель поеприпасов
-     ** Быстрые слоты
+     * Быстрые слоты (только S.T.A.L.K.E.R - Inventory)
    
  ![Screenshot](https://i.imgur.com/H3Kms7E.jpg)
  ![Screenshot](https://i.imgur.com/rWe8zPy.jpg)
