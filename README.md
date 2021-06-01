@@ -1,4 +1,4 @@
-# МОИ АДДОНЫ ДЛЯ GARRY'S MOD
+# МОИ ПЛАГИНЫ ДЛЯ GARRY'S MOD
 
  Для покупки обращаться в discord Legera#5325.
  
