@@ -6,7 +6,8 @@
  
  Код всех аддонов защищен серверным хранением некоторых переменных.
  
- # 1. S.T.A.L.K.E.R - Inventory (NutScript / HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771 
+ # 1. S.T.A.L.K.E.R - Inventory (NutScript / HELIX): 
+    SteamURL: https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771 
     
     Особенности:
     * Отдельные слоты для оружия и брони.
@@ -16,7 +17,8 @@
  
  ![Screenshot](https://i.imgur.com/cGWSlpZ.jpg)
  
-  # 2. S.T.A.L.K.E.R - HUD (HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771    
+  # 2. S.T.A.L.K.E.R - HUD (HELIX): 
+     SteamURL: https://steamcommunity.com/sharedfiles/filedetails/?id=2121277771    
  
      ВАЖНО: Некоторые функции доступны только совместно с S.T.A.L.K.E.R - Inventory (HELIX)
     
@@ -30,25 +32,27 @@
  ![Screenshot](https://i.imgur.com/eYKCKzA.jpg)
  ![Screenshot](https://i.imgur.com/STmUAco.jpg)
  
- # 3. S.T.A.L.K.E.R - PDA (NutScript / HELIX) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121280081
+ # 3. S.T.A.L.K.E.R - PDA (NutScript / HELIX):
+    SteamURL: https://steamcommunity.com/sharedfiles/filedetails/?id=2121280081
  
-   Особенности: 
-   * Все разделы функционируют.
-   * Функционирующая система репутации.
-   * Написано, как называется, с нуля.
-   * Карта в реальном времени. (присутствует поддержка большинства карт. поддержку всех карт сделать невозможно)
+    Особенности: 
+    * Все разделы функционируют.
+    * Функционирующая система репутации.
+    * Написано, как называется, с нуля.
+    * Карта в реальном времени. (присутствует поддержка большинства карт. поддержку всех карт сделать невозможно)
  
- ![Screenshot](https://i.imgur.com/Y0Db9ni.jpg)
- ![Screenshot](https://i.imgur.com/X5OfNYZ.jpg)
- ![Screenshot](https://i.imgur.com/3OU1ftd.jpg)
- ![Screenshot](https://i.imgur.com/bATUhXi.jpg)
+  ![Screenshot](https://i.imgur.com/Y0Db9ni.jpg)
+  ![Screenshot](https://i.imgur.com/X5OfNYZ.jpg)
+  ![Screenshot](https://i.imgur.com/3OU1ftd.jpg)
+  ![Screenshot](https://i.imgur.com/bATUhXi.jpg)
 
- # 4. S.T.A.L.K.E.R - Menu (NutScript) - https://steamcommunity.com/sharedfiles/filedetails/?id=2121282944
+ # 4. S.T.A.L.K.E.R - Menu (NutScript)
+   SteamURL: https://steamcommunity.com/sharedfiles/filedetails/?id=2121282944
   
-  Особенности:
-  * Стилизованное меню. На данный момент без анимаций (статические картинки).
+   Особенности:
+   * Стилизованное меню. На данный момент без анимаций (статические картинки).
  
- ![Screenshot](https://i.imgur.com/AppE36V.jpg)
- ![Screenshot](https://i.imgur.com/dnVp9As.jpg)
- ![Screenshot](https://i.imgur.com/LIBlhGV.jpg)
+  ![Screenshot](https://i.imgur.com/AppE36V.jpg)
+  ![Screenshot](https://i.imgur.com/dnVp9As.jpg)
+  ![Screenshot](https://i.imgur.com/LIBlhGV.jpg)
 
